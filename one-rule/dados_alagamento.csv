@@ -1,0 +1,19 @@
+regiao,topografia,tipo_solo,infraestrutura_drenagem,risco
+Zona Leste,Predominantemente plano,Argiloso,Inadequada,Alto
+Zona Sul,Levemente ondulada,Arenoso,Deficiente,Médio
+Zona Norte,Planícies,Argiloso,Inexistente,Alto
+Zona Oeste,Variada (colinas),Arenoso,Inadequada,Médio
+Extremo Sul,Planícies,Argiloso,Deficiente,Alto
+Extremo Leste,Levemente acidentada,Arenoso,Inadequada,Médio
+Zona Leste,Levemente acidentada,Argiloso,Bom,Baixo
+Zona Sul,Plano,Argiloso,Inadequada,Alto
+Zona Norte,Colinas,Arenoso,Deficiente,Médio
+Zona Oeste,Predominantemente plano,Argiloso,Inexistente,Alto
+Extremo Sul,Levemente ondulada,Arenoso,Bom,Baixo
+Extremo Leste,Planícies,Argiloso,Deficiente,Alto
+Zona Leste,Predominantemente plano,Arenoso,Inadequada,Médio
+Zona Sul,Planícies,Argiloso,Deficiente,Alto
+Zona Norte,Levemente acidentada,Arenoso,Inadequada,Médio
+Zona Oeste,Variada (colinas),Argiloso,Bom,Baixo
+Extremo Sul,Levemente acidentada,Arenoso,Deficiente,Médio
+Extremo Leste,Planícies,Argiloso,Inexistente,Alto
